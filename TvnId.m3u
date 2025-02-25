@@ -237,7 +237,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdnts=ex
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", MOJI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://fhlsport111.fas41m2.xyz/token-I058mrbCLqWGu2J6y%2FY6yG%2BGlMDV1i3jb3OowfAdEzint%2BbKHUFdDooopBJLVE1JBCeIxzJil%2Fk%3Da/cfall/s2001/v3b/8pr6314rnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_592534.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8?hdnts=exp=1740540749~acl=/live/206/master.m3u8!/hls-p/ingest_206*/*!/hls-b/ingest_206*/*~id=177475049~hmac=cec6b6ed3265dc23f1d91e7040bae34e3397098e1cbb16169447492591db5be2
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NATIONAL SPORTS",MOJI PROLIGA
 #EXTVLCOPT:http-referrer=https://m.vidio.com

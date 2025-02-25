@@ -1,56 +1,10 @@
 ========= NASIONAL TV--=====
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/800px-Logo_Terbaru_Liga_2_Indonesia.png" group-title="NASIONAL TV", liga 2.
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/800px-Logo_Terbaru_Liga_2_Indonesia.png" group-title="NASIONAL TV", loga2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Logo_Terbaru_Liga_2_Indonesia.png/800px-Logo_Terbaru_Liga_2_Indonesia.png" group-title="NASIONAL TV", liga 2°
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaTaPGtceb9h2v1z7ISs4XMUk4Al942kVZQXpysoZdVSslf5n&s" group-title="NASIONAL TV", LIVE BRI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtaTaPGtceb9h2v1z7ISs4XMUk4Al942kVZQXpysoZdVSslf5n&s" group-title="NASIONAL TV", LIVE BRI 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzd170sFeWhD4fl7Whtw4WOxMPE-P4yHrM6eeK1phbB3JAouk&s" group-title="NASIONAL TV",LIVE
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInb3SawIO75jiVxqTG33glNabTTYw9wPkOMsh6TmRR97ygC8&s" group-title="NASIONAL TV",LIVE2
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInb3SawIO75jiVxqTG33glNabTTYw9wPkOMsh6TmRR97ygC8&s" group-title="NASIONAL TV", KOVO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c87134327
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PROLIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV",MOJI PRO
-https://mantul.biz.id:443/live/inetwork/gayanet12/8251.ts
-
-#EXTINF:-1 group-title="NASIONAL TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png",JOWO CHANEL
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="NASIONAL TV", INDOSIAR 
@@ -60,7 +14,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGhP9BxyggeKaEAHJITGr-fcFFWjQxC5LCj4NGR9hDReTvnY&s" group-title="NASIONAL TV",INDOSIAR 2
 http://tvking.xyz:8080/live/Azman7/3890096/5117.ts
-
 
 
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="NASIONAL TV", SCTV
@@ -279,8 +232,20 @@ https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://gasruktv.my.id/asx/live.mpd?id=205
-#https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/205_stream.mpd?hdntl=exp=1739575819~acl=%2f*~id=140191317~data=hdntl~hmac=64a9eb1942868acef0c7ed777e438d35106a25e6f3e909a960a4c8f8e7a6a5c5
+https://fhlsport111.fas41m2.xyz/token-I058mrbCLqWGu2J6y%2FY6yG%2BGlMDV1i3jb3OowfAdEzint%2BbKHUFdDooopBJLVE1JBCeIxzJil%2Fk%3Da/cfall/s2001/v3b/8pr6314rnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_592534.m3u8
+
+#EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", MOJI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://fhlsport111.fas41m2.xyz/token-I058mrbCLqWGu2J6y%2FY6yG%2BGlMDV1i3jb3OowfAdEzint%2BbKHUFdDooopBJLVE1JBCeIxzJil%2Fk%3Da/cfall/s2001/v3b/8pr6314rnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_592534.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NATIONAL SPORTS",MOJI PROLIGA
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://av-cdn.rakuda.online:8443/memfs/14fbf51e-3ae6-455f-bc12-5b14ba9918ca_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800" group-title="NATIONAL SPORTS",Champions TV 1 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
@@ -358,6 +323,13 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
  
+
+#EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", Sportstar 3 HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvplus.h3ll0.workers.dev/?no=114&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://www.visionplus.id/images/repository/955/49955-SNAPSHOT-m.png" group-title="NATIONAL SPORTS",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
@@ -454,7 +426,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
 <=======SPORTS===========>
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="Sports", MEN HD 
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/rjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh/hdntl=exp=1740509333~acl=*%2frjn9uthdyzjqiwgyns2ceuhggx2j3au1t5dh%2f*~data=hdntl~hmac=06122646faeab5b21e683169115dd132b8975adb3edeb4182de6a89acd2370a4/chunklist_720.stream.m3u8
 
+$EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34Wn0rxPb2sNAMKUrXILM4zNxS3NOEl293A&s" group-title="Sports",WOMEN HD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh/hdntl=exp=1740509149~acl=*%2f9auuwlnu6hkcg5wlosqrpazqhkems0rrh5bh%2f*~data=hdntl~hmac=391e36f9c01d200b46daf43d393eab292a6733dc3cc3153304f7c854896e76fb/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="Sports", SBS SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
